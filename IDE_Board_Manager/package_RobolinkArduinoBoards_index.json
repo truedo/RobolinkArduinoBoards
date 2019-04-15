@@ -1,0 +1,67 @@
+{
+  "packages": [
+    {
+      "name": "robolink",
+      "maintainer": "ROBOLINK",
+      "websiteURL": "http://robolink.co.kr/",
+      "email": "contact@robolink.co.kr ",
+      "help": {
+        "online": "http://robolink.co.kr"
+      },
+      "platforms": [
+        {
+          "name": "robolink",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Arduino",
+          "url": "http://robolink.ipdisk.co.kr:80/publist/HDD1/download/file/RobolinkArduinoBoards_1.0.0.zip",
+          "archiveFileName": "RobolinkArduinoBoards_1.0.0.zip",
+          "checksum": "SHA-256:a3f93073005b8f6953e2127ad02eda088aad81532cb7e952d507c9272379958f",
+          "size": "723790",
+          "help": {
+            "online": " "
+          },
+          "boards": [
+            {
+              "name": "CodeLoader (For CoDrone)"
+            },
+            {
+              "name": "Rokit-SmartInventor-mega32_v1"
+            },
+            {
+              "name": "Rokit-SmartInventor-mega32_v2"
+            },
+            {
+              "name": "Rokit-SmartServoBox"
+            },
+            {
+              "name": "Rokit-Ardu-X100"
+            },
+            {
+              "name": "Rokit-Ardu-X200"
+            },
+            {
+              "name": "Rokit-MotionBoard"
+            },
+            {
+              "name": "Rokit-Flying-mega32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
