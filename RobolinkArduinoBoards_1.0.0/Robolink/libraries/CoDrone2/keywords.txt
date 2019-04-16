@@ -1,0 +1,109 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CoDrone2	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#CodeLoaderBegin	KEYWORD2
+#begin	KEYWORD2
+
+beginCodeLoader2	KEYWORD2
+
+takeoff	KEYWORD2
+land	KEYWORD2
+emergencyStop	KEYWORD2
+returnHome	KEYWORD2
+hover	KEYWORD2
+
+goToHeight	KEYWORD2
+go	KEYWORD2
+
+turn	KEYWORD2
+turnDegree	KEYWORD2
+
+rotate180	KEYWORD2
+#flySequence	KEYWORD2
+#goLocation	KEYWORD2
+
+move	KEYWORD2
+getThrottle	KEYWORD2
+setPitch	KEYWORD2
+getYaw	KEYWORD2
+getPitch	KEYWORD2
+setRoll	KEYWORD2
+setThrottle	KEYWORD2
+setYaw	KEYWORD2
+getRoll	KEYWORD2
+
+goPositon	KEYWORD2
+
+setLED	KEYWORD2
+setDefaultLED	KEYWORD2
+setEventLED	KEYWORD2
+
+#setAllLED	KEYWORD2
+#setAllDefaultLED	KEYWORD2
+#setArmDefaultLED	KEYWORD2
+#setArmLED	KEYWORD2
+#setEyeDefaultLED	KEYWORD2
+#resetDefaultLED	KEYWORD2
+#setEyeLED	KEYWORD2
+
+onLowBattery	KEYWORD2
+isFlying	KEYWORD2
+isReadyToFly	KEYWORD2
+isUpsideDown	KEYWORD2
+
+#getState	KEYWORD2
+getFlightMode	KEYWORD2
+getOptFlowPosition	KEYWORD2
+getBatteryVoltage	KEYWORD2
+getDroneTemp	KEYWORD2
+getPressure	KEYWORD2
+getTrim	KEYWORD2
+getHeight	KEYWORD2
+getAccelerometer	KEYWORD2
+getGyroAngles	KEYWORD2
+getAngularSpeed	KEYWORD2
+getBatteryPercentage	KEYWORD2
+getAltitude	KEYWORD2
+getCountTakeOff	KEYWORD2
+getCountLanding	KEYWORD2
+getCountAccident	KEYWORD2
+getAttitude	KEYWORD2
+getSystemMode	KEYWORD2
+getFlightControlMode	KEYWORD2
+getMovementStatus	KEYWORD2
+getHeadlessMode	KEYWORD2
+getSensorOrientationMode	KEYWORD2
+
+getFlightRecord	KEYWORD2
+flightrecord	KEYWORD2
+
+setControlFlightMode	KEYWORD2
+setHeadlessType	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LEFT	LITERAL1
+FORWARD	LITERAL1
+RIGHT	LITERAL1
+BACKWARD	LITERAL1
+UP	LITERAL1
+DOWN	LITERAL1
+
+ROLL	LITERAL1
+PITCH	LITERAL1
+YAW	LITERAL1
+THROTTLE	LITERAL1
