@@ -17,7 +17,7 @@
           "url": "http://robolink.ipdisk.co.kr:80/publist/HDD1/download/file/RobolinkArduinoBoards_1.0.0.zip",
           "archiveFileName": "RobolinkArduinoBoards_1.0.0.zip",
           "checksum": "SHA-256:d1507f333b7a5fe41fb0486e9e462c488c59375c4c967f84b3fea282c0224f77",
-          "size": "999513",
+          "size": "1016453",
           "help": {
             "online": " "
           },
@@ -26,25 +26,10 @@
               "name": "CodeLoader (For CoDrone)"
             },
             {
-              "name": "Rokit-SmartInventor-mega32_v1"
-            },
-            {
               "name": "Rokit-SmartInventor-mega32_v2"
             },
             {
-              "name": "Rokit-SmartServoBox"
-            },
-            {
-              "name": "Rokit-Ardu-X100"
-            },
-            {
               "name": "Rokit-Ardu-X200"
-            },
-            {
-              "name": "Rokit-MotionBoard"
-            },
-            {
-              "name": "Rokit-Flying-mega32"
             }
           ],
           "toolsDependencies": [
